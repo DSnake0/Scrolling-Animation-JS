@@ -8,7 +8,7 @@ Viewport Detection: Animations are triggered when elements enter or exit the vie
 No Dependencies: The project does not rely on any external libraries like jQuery or third-party CSS frameworks.
 Interactive Scroll Effects: Different types of animations are triggered based on scroll position and element visibility.
 Demo
-You can view a live demo of the project here: [Live Demo URL] (Add the link to your demo if hosted online).
+You can view a live demo of the project here: https://scrolljsanimation.vercel.app (Add the link to your demo if hosted online).
 
 Installation
 Clone the repository to your local machine:
